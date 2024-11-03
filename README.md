@@ -2,8 +2,8 @@
 
 ## About
 
-### I created this App for the students who don't get the internet access in my area becasue the internet has been cut off for almost 4 years.
-### The students can study and learn English with lyrics in this App. And they can save their favourite song's lyric to view it easily next time.
+ I created this App for the students who don't get the internet access in my area becasue the internet has been cut off for almost 4 years.
+ The students can study and learn English with lyrics in this App. And they can save their favourite song's lyric to view it easily next time.
 ## Built With
 - Hilt Dependency Injection
 - Room
