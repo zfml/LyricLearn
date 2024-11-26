@@ -5,6 +5,7 @@
  LyricLearn was created for the students who don't get the internet access in my area becasue the internet has been cut off for almost 4 years.
  The students can study and learn English with lyrics by using LyricLearn. And they can save their favourite song's lyric to see it easily next time.
 ## Built With
+- MVVM
 - Hilt Dependency Injection
 - Room
 - Jetpack Compose
